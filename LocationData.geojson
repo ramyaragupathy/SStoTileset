@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.122945,
+          51.512
+        ]
+      },
+      "properties": {
+        "location": "England",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.619789,
+          -9.588903
+        ]
+      },
+      "properties": {
+        "location": "Brazil",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.311132,
+          -10.151093
+        ]
+      },
+      "properties": {
+        "location": "Peru",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.049796,
+          29.307488
+        ]
+      },
+      "properties": {
+        "location": "Haryana",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.948891,
+          22.38939
+        ]
+      },
+      "properties": {
+        "location": "Gujarat",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.219796,
+          13.013812
+        ]
+      },
+      "properties": {
+        "location": "Chennai",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.026471,
+          33.838806
+        ]
+      },
+      "properties": {
+        "location": "Afghanistan",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.948891,
+          22.38939
+        ]
+      },
+      "properties": {
+        "location": "Gujarat",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.430186,
+          18.82095
+        ]
+      },
+      "properties": {
+        "location": "Maharashtra",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.268539,
+          30.864991
+        ]
+      },
+      "properties": {
+        "location": "Punjab",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.922211,
+          39.381266
+        ]
+      },
+      "properties": {
+        "location": "USA",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.760395,
+          26.064223
+        ]
+      },
+      "properties": {
+        "location": "Assam",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.123767,
+          28.653458
+        ]
+      },
+      "properties": {
+        "location": "Delhi",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.429266,
+          10.540418
+        ]
+      },
+      "properties": {
+        "location": "Kerala",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0333,
+          30.3167
+        ]
+      },
+      "properties": {
+        "location": "Dehradun",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808053,
+          1.351616
+        ]
+      },
+      "properties": {
+        "location": "Singapore",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.38865,
+          23.972878
+        ]
+      },
+      "properties": {
+        "location": "Madhya Pradesh",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.360366,
+          10.802623
+        ]
+      },
+      "properties": {
+        "location": "Tamil Nadu",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.33,
+          28.58
+        ]
+      },
+      "properties": {
+        "location": "Noida",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.695237,
+          28.186385
+        ]
+      },
+      "properties": {
+        "location": "Pakistan",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.618787,
+          47.824905
+        ]
+      },
+      "properties": {
+        "location": "France",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.430186,
+          18.82095
+        ]
+      },
+      "properties": {
+        "location": "Maharashtra",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.102,
+          18.678
+        ]
+      },
+      "properties": {
+        "location": "Telangana",
+        "gender": "M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.430186,
+          18.82095
+        ]
+      },
+      "properties": {
+        "location": "Maharashtra",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.505523,
+          15.043436
+        ]
+      },
+      "properties": {
+        "location": "Karnataka",
+        "gender": "F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.489563,
+          -25.734968
+        ]
+      },
+      "properties": {
+        "location": "Australia",
+        "gender": "F"
+      }
+    }
+  ]
+}
